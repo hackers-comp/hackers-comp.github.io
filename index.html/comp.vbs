@@ -1,6 +1,0 @@
-x=MsgBox("internal memory deletion process start",0+16,"WARNING")
-x=MsgBox("internal memory deletion process start",0+16,"WARNING")
-x=MsgBox("allow to sequere the data",0+16,"REBOOT")
-x=MsgBox("request fail, try again ",0+16,"FAILED")
-x=MsgBox("SORRY for the truble ",0+16,"SORRY")
-x=MsgBox("it is prank",0+16,"PRANK")
